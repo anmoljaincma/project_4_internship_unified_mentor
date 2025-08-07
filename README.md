@@ -1,8 +1,8 @@
 # Daily Household Transactions Analysis
 
 ## Table of Contents
-1. [Project Overview](https://github.com/anmoljaincma/project_4_internship_unified_mentor?tab=readme-ov-file#project-overview)
-2. [Data Description](https://github.com/anmoljaincma/project_4_internship_unified_mentor?tab=readme-ov-file#dataset-description)
+1. [Project Overview](https://github.com/anmoljaincma/project_4_internship_unified_mentor/blob/main/README.md#1-project-overview)
+2. [Data Description](https://github.com/anmoljaincma/project_4_internship_unified_mentor/blob/main/README.md#2-dataset-description)
 3. [Prerequisites](#prerequisites)
 4. [Analysis Steps](#analysis-steps)
    - [Step 1: Data Cleaning](#step-1-data-cleaning)
