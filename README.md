@@ -3,16 +3,12 @@
 ## Table of Contents
 1. [Project Overview](https://github.com/anmoljaincma/project_4_internship_unified_mentor/blob/main/README.md#1-project-overview)
 2. [Data Description](https://github.com/anmoljaincma/project_4_internship_unified_mentor/blob/main/README.md#2-dataset-description)
-3. [Prerequisites](#prerequisites)
-4. [Analysis Steps](#analysis-steps)
-   - [Step 1: Data Cleaning](#step-1-data-cleaning)
-   - [Step 2: Exploratory Data Analysis (EDA)](#step-2-exploratory-data-analysis-eda)
-   - [Step 3: Time-Series Trend Analysis](#step-3-time-series-trend-analysis)
-   - [Step 4: Correlation Analysis](#step-4-correlation-analysis)
-5. [Visualizations](#visualizations)
-6. [Usage Instructions](#usage-instructions)
-7. [Output Files](#output-files)
-8. [Future Work](#future-work)
+3. [Import Libraries and Load Data](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=G0g5L4VrV54q)
+4. [Data Cleaning](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=NXkOUivra6sn)
+5. [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=Wp7wimAtvwP3)
+6. [Time Series Analysis](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=9X70pqpYaGR6)
+7. [Correlation Analysis](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=Pfi1AK_8zEuU)
+8. [Generate Report](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=Y840SgxvI2i7)
 
 ## 1. Project Overview
 This project analyzes a dataset of daily household transactions to understand spending and income patterns. The dataset includes transactions with details such as date, amount, category, and income/expense type. The analysis involves data cleaning, exploratory data analysis (EDA), time-series trend analysis, and correlation analysis to uncover insights into transaction behaviors.
