@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Project Overview](https://github.com/anmoljaincma/project_4_internship_unified_mentor/blob/main/README.md#1-project-overview)
 2. [Data Description](https://github.com/anmoljaincma/project_4_internship_unified_mentor/blob/main/README.md#2-dataset-description)
-   ### [Python file link of next steps](Project_4_Unified_Mentor_Internship.ipynb)
+   ### **[Python file link of next steps](Project_4_Unified_Mentor_Internship.ipynb)**
 4. [Import Libraries and Load Data](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=G0g5L4VrV54q)
 5. [Data Cleaning](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=NXkOUivra6sn)
 6. [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=Wp7wimAtvwP3)
