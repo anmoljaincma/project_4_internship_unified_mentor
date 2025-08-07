@@ -1,8 +1,5 @@
 # Daily Household Transactions Analysis
 
-## Project Overview
-This project analyzes a dataset of daily household transactions to understand spending and income patterns. The dataset includes transactions with details such as date, amount, category, and income/expense type. The analysis involves data cleaning, exploratory data analysis (EDA), time-series trend analysis, and correlation analysis to uncover insights into transaction behaviors.
-
 ## Table of Contents
 1. [Project Overview](https://github.com/anmoljaincma/project_4_internship_unified_mentor?tab=readme-ov-file#project-overview)
 2. [Data Description](https://github.com/anmoljaincma/project_4_internship_unified_mentor?tab=readme-ov-file#dataset-description)
@@ -17,7 +14,10 @@ This project analyzes a dataset of daily household transactions to understand sp
 7. [Output Files](#output-files)
 8. [Future Work](#future-work)
 
-## Dataset Description
+## 1. Project Overview
+This project analyzes a dataset of daily household transactions to understand spending and income patterns. The dataset includes transactions with details such as date, amount, category, and income/expense type. The analysis involves data cleaning, exploratory data analysis (EDA), time-series trend analysis, and correlation analysis to uncover insights into transaction behaviors.
+
+## 2. Dataset Description
 The dataset, [raw file](daily_transactions_raw_file.csv), contains 2452 transactions with the following columns:
 - `Date`: Transaction date (originally mixed formats: `d/m/y` or `dd/mm/yyyy HH:MM:SS`).
 - `Mode`: Payment method (e.g., Cash, UPI).
