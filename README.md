@@ -18,7 +18,7 @@ This project analyzes a dataset of daily household transactions to understand sp
 8. [Future Work](#future-work)
 
 ## Dataset Description
-The dataset, `Daily Household Transactions - Daily Household Transactions (1).csv`, contains ~2461 transactions with the following columns:
+The dataset, [Daily Household Transactions - Daily Household Transactions (1).csv](Daily Household Transactions - Daily Household Transactions.csv), contains 2451 transactions with the following columns:
 - `Date`: Transaction date (originally mixed formats: `d/m/y` or `dd/mm/yyyy HH:MM:SS`).
 - `Mode`: Payment method (e.g., Cash, UPI).
 - `Category`: Transaction category (e.g., Food, Household, Transportation, Salary).
@@ -28,4 +28,4 @@ The dataset, `Daily Household Transactions - Daily Household Transactions (1).cs
 - `Income/Expense`: Type of transaction (Income or Expense).
 - `Currency`: Currency (all INR).
 
-The cleaned dataset (`cleaned_daily_transactions.csv`) has 2450 rows after removing 2 rows with handling duplicates/missing values and outlier amount value.
+The [cleaned dataset](cleaned_daily_transactions.csv) has 2450 rows after removing 2 rows with handling duplicates/missing values and outlier amount value.
