@@ -3,12 +3,13 @@
 ## Table of Contents
 1. [Project Overview](https://github.com/anmoljaincma/project_4_internship_unified_mentor/blob/main/README.md#1-project-overview)
 2. [Data Description](https://github.com/anmoljaincma/project_4_internship_unified_mentor/blob/main/README.md#2-dataset-description)
-3. [Import Libraries and Load Data](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=G0g5L4VrV54q)
-4. [Data Cleaning](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=NXkOUivra6sn)
-5. [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=Wp7wimAtvwP3)
-6. [Time Series Analysis](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=L1cqqOZ3akL8)
-7. [Correlation Analysis](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=z2FauTAnzVgI)
-8. [Generate Report](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=b575fccc)
+   ### [Python file link of next steps](Project_4_Unified_Mentor_Internship (2).ipynb)
+4. [Import Libraries and Load Data](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=G0g5L4VrV54q)
+5. [Data Cleaning](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=NXkOUivra6sn)
+6. [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=Wp7wimAtvwP3)
+7. [Time Series Analysis](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=L1cqqOZ3akL8)
+8. [Correlation Analysis](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=z2FauTAnzVgI)
+9. [Generate Report](https://colab.research.google.com/drive/1DcmIP1nISBQf2N06cFzsitNqe9up9rJE#scrollTo=b575fccc)
 
 ## 1. Project Overview
 This project analyzes a dataset of daily household transactions to understand spending and income patterns. The dataset includes transactions with details such as date, amount, category, and income/expense type. The analysis involves data cleaning, exploratory data analysis (EDA), time-series trend analysis, and correlation analysis to uncover insights into transaction behaviors.
