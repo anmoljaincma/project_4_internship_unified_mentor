@@ -15,7 +15,7 @@
 This project analyzes a dataset of daily household transactions to understand spending and income patterns. The dataset includes transactions with details such as date, amount, category, and income/expense type. The analysis involves data cleaning, exploratory data analysis (EDA), time-series trend analysis, and correlation analysis to uncover insights into transaction behaviors.
 
 ## 2. Dataset Description
-The dataset, [raw file](daily_transactions_raw_file.csv), contains 2452 transactions with the following columns:
+The dataset, [raw file](daily_transactions_raw_file.csv), contains 2461 transactions with the following columns:
 - `Date`: Transaction date (originally mixed formats: `d/m/y` or `dd/mm/yyyy HH:MM:SS`).
 - `Mode`: Payment method (e.g., Cash, UPI).
 - `Category`: Transaction category (e.g., Food, Household, Transportation, Salary).
